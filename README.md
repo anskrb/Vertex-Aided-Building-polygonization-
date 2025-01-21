@@ -72,11 +72,13 @@ Improved performance through vertex-assisted post-processing.
 
 # Repository Conctents 
 
+[Data preparation Notebook ](Data_prep.ipynb) ( Dataset preparation and preprocessing )
+
 [Vertex Aided Building Polygonization Notebook](Vertex_Aided_Building_Polygonization.ipynb) ( Paper implementation )
 
-[Building polygonization Notebook](Buildings_polygonization_Using_only_U-Net.ipynb) using only U-Net 
+[Building polygonization Notebook](Buildings_polygonization_Using_only_U-Net.ipynb) ( A simple implementation using only U-Net ) 
 
-[Data preparation Notebook ](Data_prep.ipynb)
+
 
 
 
