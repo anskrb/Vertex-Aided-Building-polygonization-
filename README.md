@@ -3,7 +3,7 @@
 This repository contains an implementation of the paper ["Vertex Aided Building Polygonization from Satellite Imagery Applying Deep Learning"](https://elib.dlr.de/195245/1/Vertex_Aided_Building_Polygonization_from_Satellite_Imagery_Applying_Deep_Learning.pdf). The goal of this project is to accurately extract building polygons from satellite imagery, leveraging a deep learning approach.
 
 
-## Introduction
+## Description
 
 This project implements a two-stage deep learning-based method for extracting building polygons:
 
@@ -16,6 +16,14 @@ The workflow simplifies model complexity while delivering high accuracy in proce
 Here's the model representation :
 
 ![Model representation](model_representation.png) 
+
+Where :
+
+**-** The backbone is **ResNet34**-Like **U-Net** architecture.
+
+**-** The **TSD** map is the Trancated Signed Distance which determine how far a pixel from a building and if its in or outside the building.
+
+**-** The **Gaussian density** map is a represntation of the vertix of the building
 
 ## Requirements
 
