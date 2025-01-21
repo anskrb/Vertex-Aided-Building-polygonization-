@@ -37,5 +37,7 @@ The data is hosted on AWS as a Public Dataset. It is free to download, but an AW
 ## Results
 
 _The model achieves:_
+
 High-quality building polygonization.
+
 Improved performance through vertex-assisted post-processing.
