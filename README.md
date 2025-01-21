@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the paper ["Vertex Aided Building Polygonization from Satellite Imagery Applying Deep Learning"](https://elib.dlr.de/195245/1/Vertex_Aided_Building_Polygonization_from_Satellite_Imagery_Applying_Deep_Learning.pdf). The goal of this project is to accurately extract building polygons from satellite imagery, leveraging a deep learning approach.
 
-!([Model representation.png](https://github.com/anskrb/Vertex-Aided-Building-polygonization-/blob/07aadbf454e4b1750d1e22eed5a0c6e5a0a36af6/Model%20representation.png))
+![Model representation](assets/Model representation.png) 
 
 ## Introduction
 
