@@ -30,7 +30,12 @@ scikit-learn
 tqdm
 
 ## Dataset
+
 The implementation utilizes the dataset from the SpaceNet Building Segmentation Challenge V2. This dataset includes high-resolution satellite imagery and corresponding building footprints.
+
+The data is hosted on AWS as a Public Dataset. It is free to download, but an AWS account is required : 
+
+**aws s3 ls s3://spacenet-dataset/spacenet/SN2_buildings/**
 
 ## Results
 
