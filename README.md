@@ -45,6 +45,10 @@ tqdm
 
 The implementation utilizes the dataset from the [SpaceNet Building Detection Challenge V2](https://spacenet.ai/spacenet-buildings-dataset-v2/). This dataset includes high-resolution satellite imagery and corresponding building footprints.
 
+Here's some Images from the dataset: 
+
+![dataset_images](Dataset_images.png)
+
 The data is hosted on AWS as a Public Dataset. It is free to download, but an AWS account is required 
 ## Results
 
