@@ -57,3 +57,5 @@ _The model achieves:_
 High-quality building polygonization.
 
 Improved performance through vertex-assisted post-processing.
+
+![results](results.png)
