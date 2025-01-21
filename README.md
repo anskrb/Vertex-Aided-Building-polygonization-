@@ -68,3 +68,17 @@ High-quality building polygonization.
 Improved performance through vertex-assisted post-processing.
 
 ![results](results.png)
+
+
+# Repository Conctents 
+
+[Vertex Aided Building Polygonization Notebook](Vertex_Aided_Building_Polygonization.ipynb) ( Paper implementation )
+
+[Building polygonization Notebook](Buildings_polygonization_Using_only_U-Net.ipynb) using only U-Net 
+
+[Data preparation Notebook ](Data_prep.ipynb)
+
+
+
+
+
