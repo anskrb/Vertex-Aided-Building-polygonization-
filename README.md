@@ -50,6 +50,15 @@ Here's some Images from the dataset:
 ![dataset_images](Dataset_images.png)
 
 The data is hosted on AWS as a Public Dataset. It is free to download, but an AWS account is required 
+
+## Training & Evaluation
+
+We Trained the model on 10 epochs, using a combination of 3 losses (For each of segmentation, TSD and G.D maps ) and **IoU** ( Intersection Over Union ) as metric.
+
+Here's the graphs of evaluation: 
+
+![graphs](Graphs.png)
+
 ## Results
 
 _The model achieves:_
